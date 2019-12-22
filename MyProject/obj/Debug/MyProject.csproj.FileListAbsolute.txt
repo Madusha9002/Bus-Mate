@@ -1,0 +1,412 @@
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\ApplicationInsights.config
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\csc.exe
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\vbc.exe
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\MyProject.dll.config
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\MyProject.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\MyProject.pdb
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.AI.Web.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.AI.WindowsServer.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.ApplicationInsights.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Newtonsoft.Json.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\System.Web.Http.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.AI.Web.xml
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.AI.WindowsServer.xml
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.ApplicationInsights.xml
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Newtonsoft.Json.xml
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\System.Web.Http.xml
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.dll
+c:\users\asus\documents\visual studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\MyProject.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\System.Web.Http.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\System.Web.Http.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\ASUS\Desktop\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\MyProject.dll.CodeAnalysisLog.xml
+C:\Users\ASUS\Desktop\MyProject\MyProject\bin\MyProject.dll.lastcodeanalysissucceeded
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\ApplicationInsights.config
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\csc.exe
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\vbc.exe
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\MyProject.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.AI.Web.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\System.Web.Http.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.AI.Web.xml
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\System.Web.Http.xml
+C:\Users\ccs\Desktop\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\ccs\Desktop\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\ccs\Desktop\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\ccs\Desktop\MyProject\MyProject\obj\Debug\MyProject.pdb
+D:\MyProject\MyProject\bin\ApplicationInsights.config
+D:\MyProject\MyProject\bin\roslyn\csc.exe
+D:\MyProject\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyProject\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyProject\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyProject\MyProject\bin\roslyn\System.Collections.Immutable.dll
+D:\MyProject\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyProject\MyProject\bin\roslyn\vbc.exe
+D:\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe
+D:\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe.config
+D:\MyProject\MyProject\bin\MyProject.dll.config
+D:\MyProject\MyProject\bin\MyProject.dll
+D:\MyProject\MyProject\bin\MyProject.pdb
+D:\MyProject\MyProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MyProject\MyProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\MyProject\MyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MyProject\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MyProject\MyProject\bin\Microsoft.AI.Web.dll
+D:\MyProject\MyProject\bin\Microsoft.AI.WindowsServer.dll
+D:\MyProject\MyProject\bin\Microsoft.ApplicationInsights.dll
+D:\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyProject\MyProject\bin\Newtonsoft.Json.dll
+D:\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+D:\MyProject\MyProject\bin\System.Web.Http.dll
+D:\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+D:\MyProject\MyProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\MyProject\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MyProject\MyProject\bin\Microsoft.AI.Web.xml
+D:\MyProject\MyProject\bin\Microsoft.AI.WindowsServer.xml
+D:\MyProject\MyProject\bin\Microsoft.ApplicationInsights.xml
+D:\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyProject\MyProject\bin\Newtonsoft.Json.xml
+D:\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+D:\MyProject\MyProject\bin\System.Web.Http.xml
+D:\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+D:\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+D:\MyProject\MyProject\obj\Debug\MyProject.dll
+D:\MyProject\MyProject\obj\Debug\MyProject.pdb
+E:\MyProject\MyProject\bin\ApplicationInsights.config
+E:\MyProject\MyProject\bin\roslyn\csc.exe
+E:\MyProject\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyProject\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyProject\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyProject\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyProject\MyProject\bin\roslyn\System.Collections.Immutable.dll
+E:\MyProject\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyProject\MyProject\bin\roslyn\vbc.exe
+E:\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe
+E:\MyProject\MyProject\bin\roslyn\VBCSCompiler.exe.config
+E:\MyProject\MyProject\bin\MyProject.dll.config
+E:\MyProject\MyProject\bin\MyProject.dll
+E:\MyProject\MyProject\bin\MyProject.pdb
+E:\MyProject\MyProject\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MyProject\MyProject\bin\Microsoft.AI.DependencyCollector.dll
+E:\MyProject\MyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MyProject\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MyProject\MyProject\bin\Microsoft.AI.Web.dll
+E:\MyProject\MyProject\bin\Microsoft.AI.WindowsServer.dll
+E:\MyProject\MyProject\bin\Microsoft.ApplicationInsights.dll
+E:\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyProject\MyProject\bin\Newtonsoft.Json.dll
+E:\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+E:\MyProject\MyProject\bin\System.Web.Http.dll
+E:\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+E:\MyProject\MyProject\bin\Microsoft.AI.DependencyCollector.xml
+E:\MyProject\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MyProject\MyProject\bin\Microsoft.AI.Web.xml
+E:\MyProject\MyProject\bin\Microsoft.AI.WindowsServer.xml
+E:\MyProject\MyProject\bin\Microsoft.ApplicationInsights.xml
+E:\MyProject\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyProject\MyProject\bin\Newtonsoft.Json.xml
+E:\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+E:\MyProject\MyProject\bin\System.Web.Http.xml
+E:\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+E:\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+E:\MyProject\MyProject\obj\Debug\MyProject.dll
+E:\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\ApplicationInsights.config
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\csc.exe
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\vbc.exe
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\MyProject.dll.config
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\MyProject.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\MyProject.pdb
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.Web.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\System.Web.Http.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.Web.xml
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\System.Web.Http.xml
+C:\Users\ccs\Desktop\MyProject_2\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\ccs\Desktop\MyProject_2\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\ccs\Desktop\MyProject_2\MyProject\obj\Debug\MyProject.dll
+C:\Users\ccs\Desktop\MyProject_2\MyProject\obj\Debug\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\MyProject.dll.config
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\MyProject.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\System.Web.Http.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\System.Web.Http.xml
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\obj\Debug\MyProject.dll
+C:\Users\ASUS\Desktop\MyProject_2\MyProject\obj\Debug\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\MyProject.dll.config
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\MyProject.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\System.Web.Http.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\System.Web.Http.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\obj\Debug\MyProject.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_21\MyProject\obj\Debug\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\MyProject.dll.config
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\MyProject.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\System.Web.Http.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\System.Web.Http.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\obj\Debug\MyProject.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_27\MyProject\obj\Debug\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\MyProject.dll.config
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\MyProject.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\MyProject.pdb
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\System.Web.Http.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\System.Web.Http.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\obj\Debug\MyProject.dll
+C:\Users\ASUS\Desktop\MyProject_2_19_10_31\MyProject\obj\Debug\MyProject.pdb
